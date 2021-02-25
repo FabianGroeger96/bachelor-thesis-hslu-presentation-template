@@ -5,3 +5,5 @@ You can generate slides with or without notes, check the examples below or in th
 - [slides example normal ratio](resources/template_normal.pdf)
 - [slides example 16:9](resources/template_16_9.pdf)
 - [slides example with notes](resources/template_with_notes.pdf)
+
+_The template is also available on Overleaf:_ https://www.overleaf.com/latex/templates/hslu-thesis-template/bbxgtxyghmdz
